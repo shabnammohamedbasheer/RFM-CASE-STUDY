@@ -1,0 +1,2 @@
+RFM analysis is used to comprehend and segment customers based on their purchasing habits. RFM stands for recency, frequency, and monetary value, three critical measures that give information on a company’s customer engagement, loyalty, and value
+Analyzing RFM helps businesses prioritize their marketing strategies, such as targeting high-value customers with special offers, re-engaging churning customers, or enticing new customers to make additional purchases.
